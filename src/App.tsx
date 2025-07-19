@@ -27,7 +27,6 @@ function App() {
         <Route path="/form-sptao" element={<FormTaoSP/>}></Route>
         <Route path="/form-phientao" element={<FormTaoPhien/>}></Route>
         <Route path="/phiendaugia" element={<PhienDauGia/>}></Route>
-        <Route path="/test" element={<Test/>}></Route>
         <Route path="/ctpdg" element={<XemChiTietPDG/>}></Route>
         <Route path="/tragia" element={<Tragia/>}></Route>
       </Routes>

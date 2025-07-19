@@ -10,7 +10,6 @@ import XemSPTao from './user/XemSPTao'
 import FormTaoSP from './user/FormTaoSP'
 import FormTaoPhien from './user/FormTaoPhien'
 import PhienDauGia from './user/PhienDauGia'
-import Test from './test'
 import XemChiTietPDG from './user/XemChiTietPDG'
 import Tragia from './user/Tragia'
 
